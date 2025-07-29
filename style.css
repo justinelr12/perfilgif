@@ -1,0 +1,212 @@
+table {
+    color:red;
+            background-color: aquamarine;
+            border-color: rgb(192, 10, 116);
+}
+
+.cab{
+    background-color: rgb(24, 217, 243);
+    height: 60px;
+    width: 96.6%;
+    padding: 1rem 2rem;
+    position: relative;
+    top: -40px;
+    left: -10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+.cab h1 {
+    color:black;
+    
+}
+
+body{
+    background-image: url(Img/133555520166920143.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+
+    
+}
+
+
+.title{
+    text-align: center;
+    color: #f37703;
+    
+
+}
+
+.Foto{  
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    filter:drop-shadow(16px 16px 20px black);
+    border-radius: 50%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 43%;
+    
+}
+h3 , p{
+    display: inline;
+    margin: 0;
+
+}
+
+.cuadro{
+    width: 300px;
+    height: 200px;
+    border-radius: 20px;
+    background-color:white;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 39%;
+    line-height: 175%;
+}
+
+.cuadro h3{
+
+    font-family:Georgia, Times, 'Times New Roman', serif;
+    position: relative;
+
+    left: 10px;
+}
+.cuadro p{
+    font-family:Georgia, Times, 'Times New Roman', serif;
+    position: relative;
+
+    left: 10px;
+}
+
+.Nombre{
+    text-align: center;
+    background-color: aqua;
+    border: solid black 1px;
+    border-radius: 20px;
+    height: 30px;
+    width: 300px;
+    position: relative;
+    left: 39%;
+}
+
+.info{
+    background-color: white;
+    width: 500px;
+    height: 100px;
+    border: solid black;
+    position: relative;
+    left: 30%;
+    top: 50px;
+    
+}
+
+.info p {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    position: relative;
+    top: -20px;
+    left: 4px;
+}
+
+.des{
+    color: #e00c0c;
+    position:relative;
+    left: -1px;
+    top: -25px;
+    
+
+}
+.GBoton{
+    border: 1px solid black;
+    display: inline-block;
+   background-color: rgb(243, 233, 220);
+   color: black;
+   padding:19.6px 20px;
+   font-size: 24px;
+   text-decoration: none;
+   position: relative;
+    left:72.1%;
+    top:-70px;
+}
+.GBoton:hover{
+    background-color: rgb(108, 131, 238);
+}
+
+
+.end{
+    background-color: rgb(65, 59, 59);
+    height: 100px;
+    width: 96.6%;
+    padding: 1rem 2rem;
+    position: relative;
+    top: 150px;
+    left:-10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+} 
+.end h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    font-size: 30px;
+    position: relative;
+    top: -20px;
+    left:-20px;
+}
+.end a {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: bisque;
+    position: relative;
+    text-decoration: none;
+}
+
+.pt{
+   border: 1px solid black;
+    display: inline-block;
+   background-color: rgb(243, 233, 220);
+   color: black;
+   padding:19.6px 20px;
+   font-size: 24px;
+   text-decoration: none;
+   position: relative;
+    left:71.8%;
+    top:-70px;
+}
+.pt:hover{
+    background-color: blue;
+}
+
+.lo:hover{
+    color:green;
+}
+.li:hover{
+    color: purple;
+}
+.la:hover{
+    color: blue;
+}
+.end a{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.gif{
+    background-image: url(Img/gif.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    top: 20%;
+    left: 12%;
+    z-index: 2;
+}

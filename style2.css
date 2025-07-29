@@ -1,0 +1,124 @@
+body{
+    background: url(Img/133555520166920143.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+.cab{
+    background-color: rgb(24, 217, 243);
+    height: 60px;
+    width: 96.6%;
+    padding: 1rem 2rem;
+    position: relative;
+    top: -40px;
+    left: -10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+.cab h1 {
+    color:black;
+}
+
+.in{
+    border: 1px solid black;
+    display: inline-block;
+   background-color: rgb(243, 233, 220);
+   color: black;
+   padding:19.6px 25px;
+   font-size: 24px;
+   text-decoration: none;
+   position: relative;
+    left:78.9%;
+    top:-70px;
+}
+.in:hover{
+    background-color: rgb(108, 131, 238);
+}
+.GBoton{
+    border: 1px solid black;
+    display: inline-block;
+   background-color: rgb(243, 233, 220);
+   color: black;
+   padding:19.6px 20px;
+   font-size: 24px;
+   text-decoration: none;
+   position: relative;
+    left:78%;
+    top:-70px;
+ }
+ .GBoton:hover{
+     background-color: blue;
+ }
+ .pho {
+    background-repeat: no-repeat;
+    position: relative;
+    left: 25%;
+    top: 35px;
+  }
+
+  .pho:hover {
+    transform: scale(1.02);
+  }
+
+  .cua{
+  background-color:bisque;
+    width: 500px;
+    height: 300px;
+    border: solid black;
+    position: relative;  
+    left: 30%;
+    top: 20px;
+  }
+  .cua h3{
+    text-align: center;
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  .cua p {
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+  .cua1{
+    background-color:bisque;
+      width: 500px;
+      height: 300px;
+      border: solid black;
+      position: relative;  
+      left: 30%;
+      top: 60px;
+    }
+
+    .cua1 h3{
+        text-align: center;
+        text-decoration: none;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+      }
+      .cua1 p {
+        text-decoration: none;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+      }
+    
+      .cua2{
+        background-color:bisque;
+          width: 500px;
+          height: 300px;
+          border: solid black;
+          position: relative;  
+          left: 30%;
+          top: 80px;
+        }
+    
+        .cua2 h3{
+            text-align: center;
+            text-decoration: none;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+          }
+          .cua2 p {
+            text-decoration: none;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+          }
+        
